@@ -11,3 +11,6 @@
 
 ## 4) Interface Segregation Principle:
 - Clients should not be forced to depend on methods they don't use.
+
+## 5) Dependency Inversion Principle:
+- (a) high-level modules should not depend upon low-level modules. Both should depend upon abstractions. (b) abstractions should not depend upon details, but rather details should depend upon abstractions. This implies that stable software architectures avoid depending on volatile concretions, favoring the use of stable abstract interfaces. Some of the good coding practices that derive from this principle are: *don't refer to a volatile concrete class, don't derive from a volatile concrete class, don't override concrete functions, and never mention the name of anything concrete and volatile*.
