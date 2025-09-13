@@ -8,3 +8,6 @@
 
 ## 3) Liskov Substitution Principle:
 - If for each object *o1* of type *S* there is an object *o2* of type *T* such that for all programs P defined in terms of T, the behavior of P is unchanged when *o1* is substituted for *o2* then *S* is a subtype of *T*. In other words, objects of a superclass should be replaceable with objects of its subclasses without affecting the correctness of the program.
+
+## 4) Interface Segregation Principle:
+- Clients should not be forced to depend on methods they don't use.
