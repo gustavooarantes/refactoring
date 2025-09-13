@@ -1,0 +1,5 @@
+com/company/intersegrega/service/UserPersistenceService.class
+com/company/intersegrega/service/PersistenceService.class
+com/company/intersegrega/entity/User.class
+com/company/intersegrega/entity/Order.class
+com/company/intersegrega/entity/Entity.class

@@ -1,0 +1,5 @@
+/home/gustavo/Learning/solid/interface-segregation/src/main/java/com/company/intersegrega/entity/Entity.java
+/home/gustavo/Learning/solid/interface-segregation/src/main/java/com/company/intersegrega/entity/Order.java
+/home/gustavo/Learning/solid/interface-segregation/src/main/java/com/company/intersegrega/entity/User.java
+/home/gustavo/Learning/solid/interface-segregation/src/main/java/com/company/intersegrega/service/PersistenceService.java
+/home/gustavo/Learning/solid/interface-segregation/src/main/java/com/company/intersegrega/service/UserPersistenceService.java
