@@ -10,13 +10,13 @@ import java.util.Map;
 public class InternetSessionHistory {
 
     public static class InternetSession {
-        
+
         private LocalDateTime begin;
 
         private Long subscriberId;
 
         private Long dataUsed;
-        
+
         public InternetSession(Long subscriberId, LocalDateTime begin, long dataUsed) {
             this.begin = begin;
             this.dataUsed = dataUsed;

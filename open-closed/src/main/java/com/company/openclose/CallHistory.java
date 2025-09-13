@@ -10,9 +10,9 @@ import java.util.Map;
 public class CallHistory {
 
     public static class Call {
-        
+
         private LocalDateTime begin;
-        
+
         private long duration;
 
         private Long subscriberId;

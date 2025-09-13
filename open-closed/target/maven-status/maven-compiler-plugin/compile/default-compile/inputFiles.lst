@@ -1,4 +1,5 @@
-D:\Udemy\Design Patterns Java\EclipseWorkspace\design_principles\src\main\java\com\company\encapsulation\service\UserPersistenceService.java
-D:\Udemy\Design Patterns Java\EclipseWorkspace\design_principles\src\main\java\com\company\encapsulation\service\LoginService.java
-D:\Udemy\Design Patterns Java\EclipseWorkspace\design_principles\src\main\java\com\company\encapsulation\controller\UserController.java
-D:\Udemy\Design Patterns Java\EclipseWorkspace\design_principles\src\main\java\com\company\encapsulation\entity\User.java
+/home/gustavo/Learning/solid/open-closed/src/main/java/com/company/openclose/CallHistory.java
+/home/gustavo/Learning/solid/open-closed/src/main/java/com/company/openclose/ISPSubscriber.java
+/home/gustavo/Learning/solid/open-closed/src/main/java/com/company/openclose/InternetSessionHistory.java
+/home/gustavo/Learning/solid/open-closed/src/main/java/com/company/openclose/PhoneSubscriber.java
+/home/gustavo/Learning/solid/open-closed/src/main/java/com/company/openclose/Subscriber.java
