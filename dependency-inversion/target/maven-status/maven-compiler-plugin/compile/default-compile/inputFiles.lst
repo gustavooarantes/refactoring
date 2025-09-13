@@ -1,4 +1,7 @@
-D:\Udemy\Design Patterns Java\EclipseWorkspace\design_principles\src\main\java\com\company\encapsulation\service\UserPersistenceService.java
-D:\Udemy\Design Patterns Java\EclipseWorkspace\design_principles\src\main\java\com\company\encapsulation\service\LoginService.java
-D:\Udemy\Design Patterns Java\EclipseWorkspace\design_principles\src\main\java\com\company\encapsulation\controller\UserController.java
-D:\Udemy\Design Patterns Java\EclipseWorkspace\design_principles\src\main\java\com\company\encapsulation\entity\User.java
+/home/gustavo/Learning/solid/dependency-inversion/src/main/java/com/company/depinv/FormatException.java
+/home/gustavo/Learning/solid/dependency-inversion/src/main/java/com/company/depinv/Formatter.java
+/home/gustavo/Learning/solid/dependency-inversion/src/main/java/com/company/depinv/JSONFormatter.java
+/home/gustavo/Learning/solid/dependency-inversion/src/main/java/com/company/depinv/Main.java
+/home/gustavo/Learning/solid/dependency-inversion/src/main/java/com/company/depinv/Message.java
+/home/gustavo/Learning/solid/dependency-inversion/src/main/java/com/company/depinv/MessagePrinter.java
+/home/gustavo/Learning/solid/dependency-inversion/src/main/java/com/company/depinv/TextFormatter.java

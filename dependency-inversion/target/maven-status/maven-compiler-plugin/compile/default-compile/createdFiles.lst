@@ -1,0 +1,7 @@
+com/company/depinv/MessagePrinter.class
+com/company/depinv/JSONFormatter.class
+com/company/depinv/Message.class
+com/company/depinv/Formatter.class
+com/company/depinv/Main.class
+com/company/depinv/FormatException.class
+com/company/depinv/TextFormatter.class
